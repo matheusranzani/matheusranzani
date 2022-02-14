@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheusranzani
 - 👀 I’m interested in C and JavaScript
-- 🌱 I’m currently learning Node.js, React and React Native
+- 🌱 I’m currently learning C, Node.js, React and React Native
 - 📫 How to reach me ranzani.matheus@gmail.com
 
 <!---
